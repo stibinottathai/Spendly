@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721318509805",
+    "project_id": "supervisor-a86e4",
+    "storage_bucket": "supervisor-a86e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721318509805:android:1fd21953ebab82c082a0e4",
+        "android_client_info": {
+          "package_name": "com.example.expence_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK2_t7AXN3JIVLERUMPwuDu7LF589ProU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
